@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @anujawas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Anuj Awasthi
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on React js FrontEnd Development
+- 📫 How to reach me via my linkedin account 
+- https://www.linkedin.com/in/awasthi-anuj/
 
 <!---
 anujawas/anujawas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
