@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Anuj Awasthi
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on React js FrontEnd Development
-- 📫 How to reach me via my linkedin account 
+- 👋 Hi, I’m Anuj Awasthi.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Next.js.
+- 💞️ I’m looking to collaborate on React js FrontEnd Development.
+- 📫 How to reach me via my linkedin account.
 - https://www.linkedin.com/in/awasthi-anuj/
 
 <!---
